@@ -6,5 +6,5 @@ server.use(cors());
 server.listen(3000);
 
 server.get('/', (req, res) => {
-  res.send('Testing git, first feature');
+  res.send('Productionzite it, first feature');
 })
